@@ -8,7 +8,7 @@
 - Additional Data:
     -  Weather Data
     -  Building Footprint from Google Map
-- NYC Open Data: [Building_Footprint_20250311.geojson]("https://drive.google.com/file/d/1BQwBDrGNoi7mBtN36OiSU6pxapmvLqqe/view?usp=sharing")
+- NYC Open Data: [Building_Footprint_20250311.geojson](https://drive.google.com/file/d/1BQwBDrGNoi7mBtN36OiSU6pxapmvLqqe/view?usp=sharing)
 
 
 - Satellite Features: Landsat 8 and Sentinel 2
